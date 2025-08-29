@@ -1,6 +1,3 @@
-import GreatEdu from '@/public/images/greatedu.png';
-import Digistar from '@/public/images/digistar.png';
-
 export const ProjectsData = [
     {
         projectName: "GreatEdu - Home for All Education Needs",
